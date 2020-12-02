@@ -7,7 +7,7 @@ A grace double layout pull delegate for Android
 Screenshots
 ===============
 
-
+![](https://github.com/learningdollars/dennism-android-double-pull-layout/blob/main/gif/doublepull.gif)
 
 Double-Pull-Delegate use **Scroller** and **Delegate**
 
