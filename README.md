@@ -1,8 +1,8 @@
 
-Double-Pull-Delegate
+Double-Pull-Layout
 ===============
 
-A grace double layout pull delegate for Android
+A  double layout pull delegate for Android
 
 Screenshots
 ===============
